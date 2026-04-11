@@ -1,1 +1,3 @@
 Another file in the feature-1 branch
+
+This file was modified locally in the feature-1 branch. It is not present in the main branch. This file is used to demonstrate how to handle merge conflicts when multiple branches modify the same file.
