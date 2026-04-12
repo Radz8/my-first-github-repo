@@ -3,3 +3,5 @@ This line was replaced in the feature-2 branch.
 This file was modified locally in the feature-1 branch. It is not present in the main branch. This file is used to demonstrate how to handle merge conflicts when multiple branches modify the same file.
 
 This line was added in the feature-2 branch.
+
+Another modification in the feature-2 branch.
